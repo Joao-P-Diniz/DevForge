@@ -803,6 +803,8 @@ nav ul li a:hover::after{
 }
 
 .btn-submit{
+    width: 100%;
+    max-width: 400px;
     padding:var(--space-2) var(--space-4);
     margin-top:var(--space-2);
 
